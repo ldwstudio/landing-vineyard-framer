@@ -20,7 +20,7 @@ Pensata per una cantina toscana, ma **facilmente adattabile** ad altre attività
 
 ## 🖼️ Screenshot
 
-![Screenshot homepage](screenshots/homepage-preview.png)
+![Screenshot homepage](homepage-preview.png)
 
 ---
 
